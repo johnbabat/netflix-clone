@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Netflix Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+This project was built to practice react and front end design. It has some very basic functionality which includes fetching movie categories and watching movie trailers
+
+## Hosted on:
+https://netflix-clone-9bcaf.web.app/
 
 ## Available Scripts
 
